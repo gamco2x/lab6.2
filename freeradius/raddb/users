@@ -1,0 +1,4 @@
+gamco2 Cleartext-Password := "pinchebadger"
+    Service-Type = Framed-User,
+    Framed-IP-Address = 192.168.1.10,
+    Framed-IP-Netmask = 255.255.255.0
